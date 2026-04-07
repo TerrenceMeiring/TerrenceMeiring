@@ -1,42 +1,28 @@
 ### Platform Engineer | Integration Specialist | .NET Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TerrenceMeiring&color=blue" />
+  <!-- Visitor count -->
+  <img src="https://komarev.com/ghpvc/?username=TerrenceMeiring&color=blue" alt="Visitor Count" />
+
+  <!-- Tech stack -->
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,ts,nodejs,react,mongodb,git,python,aws,arduino,anaconda,graphql,postgres,qt,postman" alt="Tech Stack" />
+
+  <!-- Achievements badges -->
+  <br><br>
+  <img src="https://img.shields.io/badge/Production-Grade%20Connectors-blue" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-Automated-green" />
+  <img src="https://img.shields.io/badge/APIs-Scalable-orange" />
+  <img src="https://img.shields.io/badge/Cross-Org%20Projects-informational" />
+  <img src="https://img.shields.io/badge/Mentoring-Workflow%20Best%20Practices-purple" />
 </p>
-
----
-
-## 🚀 Focus
-
-* Building scalable **integration platforms**
-* Designing and developing **API connectors**
-* Working with **LINQ & expression trees**
-* Automating workflows and data transformation
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,ts,nodejs,react,mongodb,git,python,aws,arduino,anaconda,graphql,postgres,qt,postman" />
-</p>
-
----
-
-## 🏆 Achievements
-
-* Developed multiple **production-grade connectors** for enterprise platforms  
-* Automated complex **data pipelines** across diverse systems  
-* Built **scalable APIs** and integration workflows adopted across teams  
-* Contributed to **cross-organizational projects**, integrating systems for real-world business needs  
-* Mentored colleagues on **best practices for connectors and workflow automation**
 
 ---
 
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/terrence-meiring-6a8385188">
+  <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
 </p>
