@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,ts,nodejs,react,postgres,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,ts,nodejs,react,mongodb,git,python" />
 </p>
 
 ---
@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TerrenceMeiring&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrenceMeiring&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TerrenceMeiring&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TerrenceMeiring&layout=compact&theme=transparent" />F
 </p>
 
 <p align="center">
