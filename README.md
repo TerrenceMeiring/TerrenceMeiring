@@ -21,20 +21,20 @@
 
 ## 🚀 Focus
 
-* Building scalable **integration platforms**
-* Designing and developing **API connectors**
-* Working with **LINQ & expression trees**
+* Building scalable integration platforms
+* Designing and developing API connectors
+* Working with LINQ & expression trees
 * Automating workflows and data transformation
 
 ---
 
 ## 🏆 Achievements
 
-* Developed multiple **production-grade connectors** for enterprise platforms  
-* Automated complex **data pipelines** across diverse systems  
-* Built **scalable APIs** and integration workflows adopted across teams  
-* Contributed to **cross-organizational projects**, integrating systems for real-world business needs  
-* Mentored colleagues on **best practices for connectors and workflow automation**
+* Developed multiple production-grade connectors for enterprise platforms  
+* Automated complex data pipelines across diverse systems  
+* Built scalable APIs and integration workflows adopted across teams  
+* Contributed to cross-organizational projects, integrating systems for real-world business needs  
+* Mentored colleagues on best practices for connectors and workflow automation
 
 ---
 
