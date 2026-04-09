@@ -10,11 +10,11 @@
 </p>
 <p align="center">
   <!-- Tier 2 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,git,python,aws,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,python,graphql,arduino" />
 </p>
 <p align="center">
   <!-- Tier 3 -->
-  <img src="https://skillicons.dev/icons?i=anaconda,graphql,postgres,qt,postman" />
+  <img src="https://skillicons.dev/icons?i=anaconda,postgres,qt,postman" />
 </p>
 
 ---
