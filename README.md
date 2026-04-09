@@ -33,7 +33,7 @@
 * Developed multiple production-grade connectors for enterprise platforms  
 * Automated complex data pipelines across diverse systems  
 * Built scalable APIs and integration workflows adopted across teams  
-* Contributed to cross-organizational projects, integrating systems for real-world business needs  
+* Built integrations across finance, retail, and HR (hire-to-retire) systems to support real-world business processes  
 * Mentored colleagues on best practices for connectors and workflow automation
 
 ---
